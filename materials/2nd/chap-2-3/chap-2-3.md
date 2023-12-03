@@ -18,6 +18,6 @@
 | 14| 振り返り･小テスト | | | | | 
 | 15| 飲み物はいつまで冷たく保てる? | | | | |
 | 16| 1次関数とみなすこと | | | | |
-| 17| 1次関数のグラフの利用 | | | | |
+| 17| 1次関数のグラフの利用 | [プリント](https://github.com/ryoya-ikeda/math-kit/blob/main/materials/2nd/chap-2-3/2-3-17-1_1%E6%AC%A1%E9%96%A2%E6%95%B0%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%95%E3%81%AE%E5%88%A9%E7%94%A8_%E6%8E%88%E6%A5%AD%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88.pdf)| | | |
 | ☆18| 1次間数と図形 | [プリント](https://github.com/ryoya-ikeda/math-kit/blob/main/materials/2nd/chap-2-3/2-3-18-1_1%E6%AC%A1%E9%96%A2%E6%95%B0%E3%81%A8%E5%9B%B3%E5%BD%A2_%E6%8E%88%E6%A5%AD%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88.pdf)| | | [振り返り](https://forms.gle/XRhZXKEg4LAqSymZ9) |
 | 19| 演習･小テスト | | | | |
