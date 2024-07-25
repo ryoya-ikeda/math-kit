@@ -8,7 +8,7 @@
 |12/5(火) |15:10~| @23.514|[1次関数と図形(中2数学、 15分)](/materials/2nd/chap-2-3/chap-2-3.md)|済|
 
 ## 2024/07/26の模擬授業
-* 配布物 :
+* [配布物](https://github.com/ryoya-ikeda/math-kit/blob/main/materials/2024-07-26/3-%E6%96%B9%E7%A8%8B%E5%BC%8F.pdf) :
     * 指導案
     * ワークシート
     * 教科書のコピー 
